@@ -2,6 +2,4 @@
 
 Verify your GitHub account.
 
-Stolen from @savetheclocktower.
-
-See: https://mastodon.social/@tobie/109370268289022359
+Write-up here: https://til.simonwillison.net/mastodon/verifying-github-on-mastodon
